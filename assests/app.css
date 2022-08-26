@@ -1,0 +1,10 @@
+.img--movie{
+   height: 200px;
+   width: 100%;
+}
+
+.movie--pointer:hover{
+   color: blue;
+   font-weight: bold;
+   font-size: 15px;
+}
