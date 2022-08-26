@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from 'react'
 import { useHistory } from 'react-router-dom';
-import { mount } from '../../../harry-potter-app/src/bootstrap';
+import { mount } from '../../../n5now-evaluation-harry-potter/src/bootstrap';
 
 export default () => {
    const ref = useRef(null);
